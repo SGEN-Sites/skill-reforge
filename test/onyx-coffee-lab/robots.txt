@@ -1,3 +1,0 @@
-# This is a TEST CLONE served for review. It is not the client's site and must not be indexed.
-User-agent: *
-Disallow: /
