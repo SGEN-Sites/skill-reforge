@@ -3,7 +3,7 @@
 - Source: (not recorded)
 - Preview: https://sgencms.github.io/skill-reforge/
 - Repo: https://github.com/SGENCMS/skill-reforge
-- Built: 2026-11-06T06:19:46.291Z
+- Built: 2026-11-06T06:24:37.988Z
 - Gate: READY  (2 pass / 0 fail / 4 unproven)
 
 Every publish is one commit in this repo. Nothing is force-pushed, so each edit is
